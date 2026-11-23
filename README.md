@@ -88,8 +88,7 @@ Son accidentes pequeños, pero muy frecuentes y casi siempre evitables:
 | Vías de evacuación y extintores | No taparlos ni bloquearlos; saber dónde están |
 | Fumar | Prohibido en el puesto de trabajo; hacerlo al aire libre |
 
-> [!NOTE]
-> Conviene fijarse de vez en cuando en dónde están los extintores y las salidas de emergencia. Ese hábito puede ser decisivo en una emergencia.
+
 
 ---
 
@@ -98,7 +97,7 @@ Son accidentes pequeños, pero muy frecuentes y casi siempre evitables:
 La **ergonomía** busca adaptar el puesto a las características físicas y mentales de la persona, y no al revés.
 
 ![Medidas ergonómicas: distancia a la pantalla y ángulos de 90º](imagenes/02-medidas-ergonomicas.jpg)
-<sub>*Figura 2. Medidas ergonómicas básicas. Fuente: elaboración propia / indicar origen.*</sub>
+
 
 ### 3.1 Pantalla
 
@@ -155,11 +154,7 @@ La **ergonomía** busca adaptar el puesto a las características físicas y ment
 | 🔊 Ruido | Atenuar o eliminar fuentes (impresoras, ventiladores...); respetar a los compañeros |
 | 📐 Espacio | 2 m² libres por persona y pasillos de al menos 80 cm |
 
-> [!NOTE]
-> Las cifras de temperatura y humedad son valores de confort recomendados. El Real Decreto 486/1997 fija los límites legales (17-27 ºC en trabajos sedentarios y humedad entre el 30 y el 70 %).
 
-> [!WARNING]
-> El **Síndrome del Edificio Enfermo** (náuseas, dolor de cabeza, irritación de ojos, nariz y garganta) se relaciona con una mala ventilación. Es importante mantener bien los sistemas de ventilación y limpiar el puesto.
 
 ---
 
@@ -168,7 +163,7 @@ La **ergonomía** busca adaptar el puesto a las características físicas y ment
 Los equipos informáticos están conectados a la red eléctrica, así que el riesgo eléctrico es propio de nuestro entorno de trabajo.
 
 ![Enchufe sobrecargado frente a conexión correcta](imagenes/03-riesgo-electrico.jpg)
-<sub>*Figura 3. Enchufe sobrecargado frente a conexión correcta. Fuente: elaboración propia / indicar origen.*</sub>
+
 
 **Buenas prácticas:**
 
@@ -199,8 +194,7 @@ Relación entre ellos (ley de Ohm): **I = V / R**.
 - No se abren las fuentes de alimentación ni los equipos conectados a la red.
 - Ante una persona electrizada, **no se la toca** hasta cortar la corriente; se llama al **112**.
 
-> [!NOTE]
-> Este apartado resume conceptos generales. Debe contrastarse y completarse con el contenido del vídeo *Comportamiento eléctrico* del curso.
+
 
 ---
 
@@ -209,7 +203,7 @@ Relación entre ellos (ley de Ohm): **I = V / R**.
 Un administrador de sistemas no solo trabaja sentado. Estos son los riesgos que más se repiten en el perfil ASIR y que un manual de oficina no recoge.
 
 ![Riesgos en un centro de procesamiento de datos](imagenes/05-cpd-riesgos.jpg)
-<sub>*Figura 5. Riesgos habituales en un CPD. Fuente: elaboración propia / indicar origen.*</sub>
+
 
 | Riesgo | Dónde aparece | Medidas preventivas |
 |---|---|---|
@@ -224,8 +218,6 @@ Un administrador de sistemas no solo trabaja sentado. Estos son los riesgos que 
 | **Fibra óptica y láser** | Instalación y pruebas de enlaces | **Nunca mirar** directamente a un conector o a una fibra activa; recoger los restos de fibra, que son fragmentos de vidrio |
 | **Trabajo en solitario y guardias** | Intervenciones nocturnas o en fin de semana | Avisar a un compañero, tener protocolo de comunicación y respetar los descansos |
 
-> [!IMPORTANT]
-> En un CPD, **la seguridad de las personas va antes que la disponibilidad del servicio**. Ningún servidor justifica saltarse un procedimiento de seguridad.
 
 ```mermaid
 flowchart LR
@@ -270,8 +262,7 @@ Cuando se trabaja desde casa, la empresa sigue siendo responsable de la prevenci
 
 ## 7. Pausas y ejercicios
 
-> [!TIP]
-> Lo ideal es **alternar sentado y de pie**: unos 5-10 minutos de pie cada hora (ir a la impresora, subir por las escaleras, cambiar de tarea...).
+
 
 Para la vista, una pauta muy conocida es la regla **20-20-20**: cada 20 minutos, mirar durante 20 segundos algo situado a unos 6 metros.
 
@@ -286,7 +277,7 @@ Ejercicios para repetir unas 15 veces, siempre **suaves y sin forzar**:
 | Muñecas y manos | Abrir y cerrar las manos, girar las muñecas y estirar los dedos |
 
 ![Ejercicios de estiramiento en el puesto de trabajo](imagenes/04-ejercicios.jpg)
-<sub>*Figura 4. Ejercicios de estiramiento en el puesto de trabajo. Fuente: elaboración propia / indicar origen.*</sub>
+
 
 ---
 
@@ -300,7 +291,7 @@ Ejercicios para repetir unas 15 veces, siempre **suaves y sin forzar**:
 | [Real Decreto 488/1997](https://www.boe.es/buscar/act.php?id=BOE-A-1997-8671) | Trabajo con equipos que incluyen pantallas de visualización |
 | [Real Decreto 614/2001](https://www.boe.es/buscar/act.php?id=BOE-A-2001-11881) | Protección frente al riesgo eléctrico |
 | [Real Decreto 286/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-3790) | Protección frente al ruido |
-| Real Decreto 2177/2004 | Trabajos temporales en altura (escaleras de mano) |
+| [Real Decreto 2177/2004](https://www.boe.es/buscar/legislacion.php?campo%5B2%5D=TITULOS&dato%5B2%5D=Real%20Decreto%202177/2004&accion=Buscar&checkbox_solo_tit=S&sort_field%5B0%5D=PESO&sort_order%5B0%5D=desc) | Trabajos temporales en altura (escaleras de mano) |
 | [Ley 10/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-11472) | Trabajo a distancia y desconexión digital |
 | [Ley 28/2005](https://www.boe.es/buscar/act.php?id=BOE-A-2005-21261) | Medidas sanitarias frente al tabaquismo |
 
@@ -447,11 +438,8 @@ Para elaborar este trabajo se ha utilizado ChatGPT como apoyo para estructurar y
 
 ## 16. Autores
 
-| Nombre | GitHub | Apartados |
+| Nombre | GitHub |
 |---|---|---|
-| Nombre Apellido 1 | [@usuario1](https://github.com/usuario1) | Introducción, riesgos generales, glosario |
-| Nombre Apellido 2 | [@usuario2](https://github.com/usuario2) | Ergonomía, caso práctico |
-| Nombre Apellido 3 | [@usuario3](https://github.com/usuario3) | Riesgos eléctricos, riesgos del técnico de sistemas |
-| Nombre Apellido 4 | [@usuario4](https://github.com/usuario4) | Psicosociales y teletrabajo, ejercicios, normativa, conclusiones |
+| Alejandro Llano | [@llano99]([https://github.com/usuario1](https://github.com/llano99)) |
+| Daniel Mérida| [@Danimerest](https://github.com/Danimerest)) |
 
-*Proyecto realizado con fines educativos.*
