@@ -109,14 +109,6 @@ La **ergonomía** busca adaptar el puesto a las características físicas y ment
 - **Varias pantallas:** si se usan dos monitores, el principal va delante y el secundario a un lado, para no girar el cuello de forma constante.
 - **Tecnología:** las pantallas planas ocupan menos, emiten menos calor y menos radiación y consumen menos energía que las CRT.
 
-<details>
-
-
-1. Clic derecho en el escritorio → *Configuración de pantalla*.
-2. *Pantalla avanzada* → *Frecuencia de actualización*.
-3. En versiones antiguas: *Propiedades* → *Configuración* → *Opciones avanzadas* → pestaña *Monitor*.
-
-</details>
 
 ### 3.2 Teclado y ratón
 
