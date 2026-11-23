@@ -1,8 +1,6 @@
 [README (1).md](https://github.com/user-attachments/files/35276624/README.1.md)
 
 # 🛡️ Seguridad en el trabajo con equipos informáticos
-
-![Estado](https://img.shields.io/badge/estado-en%20desarrollo-orange)
 ![Tema](https://img.shields.io/badge/tema-prevenci%C3%B3n%20de%20riesgos%20laborales-red)
 ![Ciclo](https://img.shields.io/badge/ciclo-ASIR-green)
 ![Uso](https://img.shields.io/badge/uso-educativo-blue)
@@ -11,7 +9,7 @@
 > Riesgos laborales y prevención de riesgos desde un punto de vista informático: del puesto de oficina a la sala de servidores.
 
 ![Puesto de trabajo informático ergonómico](imagenes/01-puesto-ergonomico.jpg)
-<sub>*Figura 1. Puesto de trabajo informático ergonómico. Fuente: elaboración propia / indicar origen.*</sub>
+
 
 ---
 
