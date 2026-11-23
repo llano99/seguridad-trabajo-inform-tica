@@ -429,7 +429,7 @@ Para elaborar este trabajo se ha utilizado ChatGPT como apoyo para estructurar y
 - [Real Decreto 286/2006, ruido (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2006-3790)
 - [Ley 10/2021, trabajo a distancia (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2021-11472)
 - [INSST – Instituto Nacional de Seguridad y Salud en el Trabajo](https://www.insst.es): guías técnicas y Notas Técnicas de Prevención (por ejemplo, la NTP 730 sobre tecnoestrés).
-- Vídeo: *Comportamiento eléctrico* (material del curso).
+
 
 [^1]: Contenido reelaborado por el grupo a partir del manual de la Junta de Andalucía; no se reproduce de forma literal.
 
