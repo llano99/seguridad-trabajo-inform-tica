@@ -56,7 +56,7 @@ Hoy casi cualquier trabajo gira en torno a un ordenador. Pasar muchas horas dela
 
 En el caso de un técnico de sistemas o de redes, además, el trabajo no se limita a la mesa de oficina: se mueven equipos pesados, se trabaja con instalaciones eléctricas, en salas técnicas y con guardias fuera de horario.
 
-Este trabajo resume los riesgos más habituales de un puesto informático y cómo prevenirlos. Se basa en el *Manual de buenas prácticas en oficinas y despachos* de la Junta de Andalucía[^1], reorganizado y ampliado por el grupo con riesgos propios del perfil de **Administración de Sistemas Informáticos en Red (ASIR)**.
+Este trabajo resume los riesgos más habituales de un puesto informático y cómo prevenirlos. Se basa en el *Manual de buenas prácticas en oficinas y despachos* de la Junta de Andalucía, reorganizado y ampliado por el grupo con riesgos propios del perfil de **Administración de Sistemas Informáticos en Red (ASIR)**.
 
 Los riesgos principales se agrupan así:
 
@@ -110,7 +110,7 @@ La **ergonomía** busca adaptar el puesto a las características físicas y ment
 - **Tecnología:** las pantallas planas ocupan menos, emiten menos calor y menos radiación y consumen menos energía que las CRT.
 
 <details>
-<summary>🖱️ ¿Cómo comprobar la frecuencia de refresco? (Windows)</summary>
+
 
 1. Clic derecho en el escritorio → *Configuración de pantalla*.
 2. *Pantalla avanzada* → *Frecuencia de actualización*.
@@ -202,7 +202,7 @@ Relación entre ellos (ley de Ohm): **I = V / R**.
 
 Un administrador de sistemas no solo trabaja sentado. Estos son los riesgos que más se repiten en el perfil ASIR y que un manual de oficina no recoge.
 
-![Riesgos en un centro de procesamiento de datos](imagenes/05-cpd-riesgos.jpg)
+
 
 
 | Riesgo | Dónde aparece | Medidas preventivas |
@@ -318,8 +318,7 @@ flowchart LR
 
 **Ejemplo:** puesto de un técnico de soporte en una oficina (caso ilustrativo elaborado por el grupo).
 
-![Puesto de trabajo antes y después de las mejoras](imagenes/06-caso-practico.jpg)
-<sub>*Figura 6. Puesto del caso práctico, antes y después. Fuente: elaboración propia.*</sub>
+
 
 | Peligro detectado | Riesgo inicial | Medida aplicada | Riesgo final |
 |---|---|---|---|
@@ -438,8 +437,7 @@ Para elaborar este trabajo se ha utilizado ChatGPT como apoyo para estructurar y
 
 ## 16. Autores
 
-| Nombre | GitHub |
-|---|---|---|
-| Alejandro Llano | [@llano99]([https://github.com/usuario1](https://github.com/llano99)) |
+
+| Alejandro Llano| [@llano99]([https://github.com/usuario1](https://github.com/llano99)) |
 | Daniel Mérida| [@Danimerest](https://github.com/Danimerest)) |
 
